@@ -64,10 +64,10 @@ We quantify agreement between methods using **IoU (avg 0.3289)**, reveal **datas
 ## 📸 Visualizations
 
 ### 1. Network Dissection — Layer-wise Concept Activation
-![ImageNet Concepts](assets/ResNet18_ImageNet_layer_concepts.png)  
+![ImageNet Concepts](task1_outputs/ResNet18_ImageNet_layer_concepts.png)  
 *ImageNet model: Strong focus on "cloud" in layer4*
 
-![Places365 Concepts](assets/ResNet18_Places365_layer_concepts.png)  
+![Places365 Concepts](task1_outputs/ResNet18_Places365_layer_concepts.png)  
 *Places365 model: Balanced "sky", "person", "tree" across layers*
 
 ### 2. Grad-CAM vs LIME Comparison (Top 3 Examples)
