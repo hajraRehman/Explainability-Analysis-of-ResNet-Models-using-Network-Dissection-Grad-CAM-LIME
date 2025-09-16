@@ -73,15 +73,11 @@ We quantify agreement between methods using **IoU (avg 0.3289)**, reveal **datas
 ### 2. Grad-CAM vs LIME Comparison (Top 3 Examples)
 
 #### 🐟 Goldfish (IoU=0.45)
-![Goldfish](assets/n01443537_goldfish_comparison.png)  
+![Goldfish](task2_outputs/n01443537_goldfish_vis_1.png)  
 *High agreement — both methods focus on fish body*
 
-#### 🐕 West Highland White Terrier (IoU=0.28)
-![Terrier](assets/n02098286_terrier_comparison.png)  
-*Grad-CAM: head & body | LIME: scattered, includes background*
-
 #### 🐍 Racer (IoU=0.12)
-![Racer](assets/n04037443_racer_comparison.png)  
+![Racer](task2_outputs/n04037443_racer_vis_751.png)  
 *Low agreement — LIME struggles with off-center object*
 
 ---
