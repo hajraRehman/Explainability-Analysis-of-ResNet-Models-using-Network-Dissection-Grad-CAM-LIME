@@ -1,0 +1,21 @@
+Network Dissection Analysis Summary
+==============================
+Top 5 concepts (ImageNet):
+{
+  "cloud": 246,
+  "chair": 90,
+  "person": 86,
+  "tree": 80,
+  "house": 67
+}
+Top 5 concepts (Places365):
+{
+  "person": 180,
+  "sky": 151,
+  "cloud": 116,
+  "chair": 91,
+  "river": 62
+}
+Common concepts: 20
+Unique objects (ImageNet): 12
+Unique objects (Places365): 12
